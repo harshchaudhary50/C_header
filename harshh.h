@@ -7,9 +7,14 @@
 void Hello(int n) {
     if (n == 1) {
         printf("Hello\n");
+
+    }
+    else if{
+        printf("chfjdfd")
     } else {
         printf("bye\n");
     }
 }
+
 
 #endif
