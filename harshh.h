@@ -9,9 +9,8 @@ void Hello(int n) {
         printf("Hello\n");
 
     }
-    else if{djfjdhfjdhfdjfdsuftdhffgkgky7ttgt
-        bhbggg
-        printf("chfjdfd")
+    else if{
+        printf("harsh");
     } else {
         printf("bye\n");
     }
